@@ -1,6 +1,8 @@
 # Tricky_Cups
 Tricky Cups Game
 
+Classical 3 Cup 1 Ball Game
+
 ![p1](https://user-images.githubusercontent.com/102873989/168628140-6c4e464d-a492-4cf0-b39e-712298c9633d.PNG)
 
 ![p2](https://user-images.githubusercontent.com/102873989/168628153-3260dd2a-7ece-4805-bcc0-54c3c5344464.PNG)
